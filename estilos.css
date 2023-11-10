@@ -1,0 +1,51 @@
+
+tr:nth-child(1) {
+    background-color: black;
+    color: white;
+    border: none;
+  }
+  
+  td, th {
+    padding: 10px;
+    text-align: start;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(odd):not(:first-child) {
+    background-color: #cccfcd;
+  }
+  td:file-selector-button {
+    background: rgb(230, 73, 73);
+  }
+  .you{
+    background-color: #CC0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+    .you:hover{
+        background-color: black;
+        }
+  
+  .ttw{
+    background-color: #1A8CD8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+    .ttw:hover{
+    background-color: black;
+    }
+  
+  .face{
+    background-color: #23A6F5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  .face:hover{
+    background-color: black;
+  }
